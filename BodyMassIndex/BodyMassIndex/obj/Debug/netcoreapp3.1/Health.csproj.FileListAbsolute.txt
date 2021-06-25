@@ -1,0 +1,12 @@
+C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp3.1\Health.AssemblyInfoInputs.cache
+C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp3.1\Health.AssemblyInfo.cs
+C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp3.1\Health.csproj.CoreCompileInputs.cache
+C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\netcoreapp3.1\Health.exe
+C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\netcoreapp3.1\Health.deps.json
+C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\netcoreapp3.1\Health.runtimeconfig.json
+C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\netcoreapp3.1\Health.runtimeconfig.dev.json
+C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\netcoreapp3.1\Health.dll
+C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\netcoreapp3.1\Health.pdb
+C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp3.1\Health.dll
+C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp3.1\Health.pdb
+C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp3.1\Health.genruntimeconfig.cache
