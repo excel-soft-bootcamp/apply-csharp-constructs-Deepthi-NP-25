@@ -1,4 +1,0 @@
-C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp3.1\Health.csprojAssemblyReference.cache
-C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp3.1\Health.AssemblyInfoInputs.cache
-C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp3.1\Health.AssemblyInfo.cs
-C:\Users\deepthi.np\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp3.1\Health.csproj.CoreCompileInputs.cache
