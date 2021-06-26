@@ -14,13 +14,13 @@ namespace Health
             int height = display.SetHeight();
             int weight = display.SetWeight();
 
-            Calculate obj = new Calculate();
-            obj.SetHeight = height;
-            obj.SetWeight = weight;
-            int result = obj.CalculateResult();
+            Calculate value = new Calculate();
+            value.SetHeight = height;
+            value.SetWeight = weight;
+            int result = value.CalculateResult();
 
-            Checkcondition obj2 = new Checkcondition();
-            obj2.BMIValidate(result);
+            Checkcondition value2 = new Checkcondition();
+            value2.BMIValidate(result);
 
             Console.ReadLine();
         }
