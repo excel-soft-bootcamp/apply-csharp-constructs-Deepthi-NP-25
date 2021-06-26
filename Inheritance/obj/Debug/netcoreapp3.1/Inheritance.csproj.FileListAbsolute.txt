@@ -1,4 +1,0 @@
-C:\Users\deepthi.np\source\repos\DEMO5\Imheritance\obj\Debug\netcoreapp3.1\Inheritance.csprojAssemblyReference.cache
-C:\Users\deepthi.np\source\repos\DEMO5\Imheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
-C:\Users\deepthi.np\source\repos\DEMO5\Imheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
-C:\Users\deepthi.np\source\repos\DEMO5\Imheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
