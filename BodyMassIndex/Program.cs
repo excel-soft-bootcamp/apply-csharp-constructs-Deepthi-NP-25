@@ -19,8 +19,8 @@ namespace Health
             obj.SetWeight = weight;
             int result = obj.CalculateResult();
 
-            Checkcondition obj1 = new Checkcondition();
-            obj1.BMIValidate(result);
+            Checkcondition obj2 = new Checkcondition();
+            obj2.BMIValidate(result);
 
             Console.ReadLine();
         }
