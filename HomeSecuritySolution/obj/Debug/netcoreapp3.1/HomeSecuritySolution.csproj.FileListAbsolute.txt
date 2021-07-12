@@ -1,0 +1,13 @@
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\bin\Debug\netcoreapp3.1\HomeSecuritySolution.exe
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\bin\Debug\netcoreapp3.1\HomeSecuritySolution.deps.json
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\bin\Debug\netcoreapp3.1\HomeSecuritySolution.runtimeconfig.json
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\bin\Debug\netcoreapp3.1\HomeSecuritySolution.runtimeconfig.dev.json
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\bin\Debug\netcoreapp3.1\HomeSecuritySolution.dll
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\bin\Debug\netcoreapp3.1\HomeSecuritySolution.pdb
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\obj\Debug\netcoreapp3.1\HomeSecuritySolution.AssemblyInfoInputs.cache
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\obj\Debug\netcoreapp3.1\HomeSecuritySolution.AssemblyInfo.cs
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\obj\Debug\netcoreapp3.1\HomeSecuritySolution.csproj.CoreCompileInputs.cache
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\obj\Debug\netcoreapp3.1\HomeSecuritySolution.dll
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\obj\Debug\netcoreapp3.1\HomeSecuritySolution.pdb
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\obj\Debug\netcoreapp3.1\HomeSecuritySolution.genruntimeconfig.cache
+C:\Users\deepthi.np\source\repos\HomeSecuritySolution\HomeSecuritySolution\obj\Debug\netcoreapp3.1\HomeSecuritySolution.csprojAssemblyReference.cache
