@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BMICalculateApp/1.0.0": {
+        "dependencies": {
+          "BMIValueValidateLib": "1.0.0",
+          "CalculateBMIValueLib": "1.0.0",
+          "ConsoleInputReaderLib": "1.0.0"
+        },
+        "runtime": {
+          "BMICalculateApp.dll": {}
+        }
+      },
+      "BMIValueValidateLib/1.0.0": {
+        "dependencies": {
+          "ConsoleDisplayLib": "1.0.0"
+        },
+        "runtime": {
+          "BMIValueValidateLib.dll": {}
+        }
+      },
+      "CalculateBMIValueLib/1.0.0": {
+        "runtime": {
+          "CalculateBMIValueLib.dll": {}
+        }
+      },
+      "ConsoleDisplayLib/1.0.0": {
+        "runtime": {
+          "ConsoleDisplayLib.dll": {}
+        }
+      },
+      "ConsoleInputReaderLib/1.0.0": {
+        "dependencies": {
+          "BMIValueValidateLib": "1.0.0",
+          "CalculateBMIValueLib": "1.0.0",
+          "ConsoleDisplayLib": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleInputReaderLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BMICalculateApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BMIValueValidateLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculateBMIValueLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleDisplayLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleInputReaderLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
